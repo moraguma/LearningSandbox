@@ -12,4 +12,10 @@ config_version=5
 
 config/name="LearningSandbox"
 config/features=PackedStringArray("4.3", "Forward Plus")
+run/low_processor_mode=true
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
